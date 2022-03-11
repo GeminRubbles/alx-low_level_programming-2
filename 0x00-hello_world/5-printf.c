@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-nmmmm
-=======
 #include <stdio.h>
 
 /**
@@ -16,4 +13,3 @@ int main(void)
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
->>>>>>> 6894cda9128f91390455210f94fb2f79ab0daa0e
