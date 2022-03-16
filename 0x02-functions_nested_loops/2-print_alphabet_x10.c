@@ -24,5 +24,3 @@ void print_alphabet_x10(void)
 		round++;
 	}
 }
-© 2022 GitHub, Inc.
-Terms
